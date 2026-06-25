@@ -1,6 +1,13 @@
+#string variable
 text="Hello World"
+
+#integer variable
 number=12
+
+#float variable
 decimal_number=12.3568
+
+#boolean variable
 boolean_value=True
 
 print(f"{text} is {type(text)}")

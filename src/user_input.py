@@ -1,5 +1,6 @@
 from datetime import datetime
 
+#---Creating a function for greeting and calculating the year user will turn 100---
 def greeting():
     name = input("What is your name? ")
     age = int(input("How old are you? "))
